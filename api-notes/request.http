@@ -1,9 +1,0 @@
-get http://localhost:400
-
-###
-
-GET  HTTP://localhost:8080/api/v1/note
-
-###
-POST HTTP://localhost:8080/api/v1/note
-
